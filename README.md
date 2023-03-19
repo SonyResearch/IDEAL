@@ -1,4 +1,4 @@
-# Black-box model distillation
+# IDEAL: Query-Efficient Data-Free Learning from Black-Box Models
 This repository provides codes for our ICLR23 paper: [IDEAL: Query-Efficient Data-Free Learning from Black-Box Models](https://openreview.net/pdf?id=ConT6H7MWL).
 
 Knowledge Distillation (KD) is a typical method for training a lightweight student model with the help of a well-trained teacher model. 
